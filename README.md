@@ -1,5 +1,8 @@
 # TryHard
 
+<p align="left">
+  <a href="https://github.com/devit-tel/tryhard"><img alt="GitHub Actions status" src="https://github.com/devit-tel/tryhard/workflows/go-test/badge.svg"></a>
+</p>
 TryHard is a library for handle retry support key and automatic clear (TTL)
 
 ##### Support
